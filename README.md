@@ -1,4 +1,4 @@
-## Olá! Eu sou o Jaquesson Oliveira ✌️
+## Olá! Eu sou o Jaquesson Oliveira. ✌️
 
 ### Outras redes sociais que você pode me encontrar
 
@@ -9,6 +9,8 @@
   <a href="https://discord.gg/5bJjWEXg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
+
+### Meu Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquessonoliveira&show_icons=true&theme=dark)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquessonoliveira&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
