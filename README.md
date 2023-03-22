@@ -24,7 +24,7 @@
   <img align="center" alt="AmazonAWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div><br/>
 
-Sou formado em Engenharia Mecânica, apaixonado pelo mundo da tecnologia, e atualmente estou me aprofundando em Analista de Dados.
+Sou formado em Engenharia Mecânica, apaixonado pelo mundo da tecnologia, e atualmente estou mergulhando no mundo dos Dados.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaquessonoliveira&bg_color=e1e1e1&color=454545&line=000000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
