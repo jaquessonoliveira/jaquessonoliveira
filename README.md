@@ -24,4 +24,10 @@
 
 Sou formado em Engenharia Mecânica, apaixonado pelo mundo da tecnologia, e atualmente estou me aprofundando em Analista de Dados.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaquessonoliveira&bg_color=919191&color=ffffff&line=ffffff&point=1c1c1c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaquessonoliveira&bg_color=e1e1e1&color=454545&line=000000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jaquessonoliveira}/count.svg" /></p> 
+<br>
+</div>
