@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Jaquesson Oliveira ✌️
 
+### Outras redes sociais que você pode me encontrar
+
 <div> 
   <a href="https://www.linkedin.com/in/jaquesson-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/jaquessonoliveira" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
