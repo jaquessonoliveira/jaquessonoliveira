@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Jaquesson Oliveira. ✌️
----
 
 ### Outras redes sociais que você pode me encontrar
 
@@ -13,8 +12,8 @@
 
 ### Meu Status
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquessonoliveira&show_icons=true&theme=dark)
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquessonoliveira&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquessonoliveira&show_icons=false&theme=dark)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquessonoliveira&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
 ### Minhas Skills
