@@ -10,14 +10,12 @@
   
 </div>
 
----
 ### Meu Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquessonoliveira&show_icons=false&theme=dark)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquessonoliveira&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
----
 ### Minhas Skills
 <div style="display: inline_block">
   <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
@@ -30,7 +28,6 @@
   
   <img align="center" alt="AmazonAWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div><br/>
----
 
 Sou formado em Engenharia Mecânica, apaixonado pelo mundo da tecnologia, e atualmente estou mergulhando no mundo dos Dados.
 
