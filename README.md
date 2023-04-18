@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jaquesson-oliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" target="_blank"></a>
   <a href="https://www.kaggle.com/jaquessonoliveira" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a>
   <a href = "mailto:jaquessonboliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/5bJjWEXg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/mbjh9wmU" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 </div>
 
