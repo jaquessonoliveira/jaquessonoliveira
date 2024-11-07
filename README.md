@@ -19,8 +19,6 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquessonoliveira&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-<hr style="border: 1px solid #ccc;"/>
-
 ### Minhas Skills
 <div style="display: inline_block">
   <img align="center" alt="Python3" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
