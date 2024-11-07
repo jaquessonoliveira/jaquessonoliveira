@@ -35,6 +35,8 @@
   <img align="center" alt="AmazonAWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div><br/>
 
+<hr style="border: 1px solid #ccc;"/>
+
 Sou formado em Engenharia Mecânica, e apaixonado por tecnologia e dados. Atualmente, atuo como Analista de BI, aplicando habilidades em análise e visualização de dados para impulsionar decisões estratégicas. Estou também cursando uma Pós-graduação em Engenharia de Dados para ampliar meu domínio em pipelines e soluções de dados.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaquessonoliveira&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
