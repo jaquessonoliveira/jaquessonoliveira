@@ -11,11 +11,15 @@
   
 </div>
 
+<hr style="border: 1px solid #ccc;"/>
+
 ### Meu Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaquessonoliveira&show_icons=true&theme=dark)
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquessonoliveira&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
+<hr style="border: 1px solid #ccc;"/>
 
 ### Minhas Skills
 <div style="display: inline_block">
@@ -28,11 +32,10 @@
   <img align="center" alt="DBT" src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
   <img align="center" alt="Apache Airflow" src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black" />
-  
   <img align="center" alt="AmazonAWS" src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
 </div><br/>
 
-Sou formado em Engenharia Mecânica, apaixonado pelo mundo da tecnologia, e atualmente estou mergulhando no mundo dos Dados.
+Sou formado em Engenharia Mecânica, e apaixonado por tecnologia e dados. Atualmente, atuo como Analista de BI, aplicando habilidades em análise e visualização de dados para impulsionar decisões estratégicas. Estou também cursando uma Pós-graduação em Engenharia de Dados para ampliar meu domínio em pipelines e soluções de dados.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaquessonoliveira&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
