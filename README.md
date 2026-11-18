@@ -35,7 +35,13 @@
 
 <hr style="border: 1px solid #ccc;"/>
 
-Sou formado em Engenharia Mecânica, e apaixonado por tecnologia e dados. Atualmente, atuo como Analista de BI, aplicando habilidades em análise e visualização de dados para impulsionar decisões estratégicas. Estou também cursando uma Pós-graduação em Engenharia de Dados para ampliar meu domínio em pipelines e soluções de dados.
+Sou **AI & Data Engineer**, formado em Engenharia Mecânica, com pós-graduação em Engenharia de Dados e certificação **Databricks Certified Data Engineer Associate**.
+
+Atuo no desenvolvimento de soluções de Engenharia de Dados e Inteligência Artificial, utilizando Python, SQL, Apache Spark e Databricks para construir pipelines escaláveis, integrar diferentes fontes de dados e desenvolver soluções em ambientes cloud e on-premises.
+
+Também trabalho com **IA Generativa e LLMs**, incluindo desenvolvimento de AI Agents, integração via MCP (Model Context Protocol), análise de logs, detecção de anomalias e automação de processos.
+
+Tenho experiência com observabilidade de aplicações, ETLs e microsserviços, utilizando OpenTelemetry e Grafana para instrumentação, monitoramento, métricas, logs e rastreamento distribuído.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaquessonoliveira&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
