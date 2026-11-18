@@ -47,7 +47,8 @@ Tenho experiência com observabilidade de aplicações, ETLs e microsserviços, 
 
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jaquessonoliveira}/count.svg" /></p> 
-<br>
+  <br>
+  <p align="center"><b>Visitantes</b></p>
+  <img src="https://komarev.com/ghpvc/?username=jaquessonoliveira&label=Visitantes&color=0e75b6&style=flat" alt="Contador de visitantes" />
+  <br>
 </div>
